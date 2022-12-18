@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamilton Williams</h1>
 <h3 align="center">A passionate frontend developer from Memphis, TN</h3>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/dashboard)
+- 🔭 I’m currently learning from [The Odin Project](https://www.theodinproject.com/dashboard)
 
 - 🌱 I’m currently learning **JavaScript & LeetCode**
 
