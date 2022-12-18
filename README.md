@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript & LeetCode**
 
-- 📝 I regularly write post on [https://www.instagram.com/hamiltonwilliamsbusiness/](https://www.instagram.com/hamiltonwilliamsbusiness/)
+- 📝 I regularly post on [https://www.instagram.com/hamiltonwilliamsbusiness/](https://www.instagram.com/hamiltonwilliamsbusiness/)
 
 - 💬 Ask me about **JavaScript**
 
